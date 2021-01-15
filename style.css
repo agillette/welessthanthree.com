@@ -22,9 +22,21 @@ img, iframe { border: 0 }
 
 body {
   padding: 1em;
+  background-color: #2D5C59;
+  color: #FFFFFF;
+  font-family: Georgia, Times, Times New Roman, serif; 
 }
 
 h1 {
   margin: 4em auto;
   max-width: 20em;
+}
+
+h1 a {
+  text-decoration: underline;
+  color: #FFFFFF;
+}
+
+h1 a:hover {
+  color: #FDAB7D
 }
