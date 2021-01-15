@@ -30,6 +30,8 @@ body {
 h1 {
   margin: 4em auto;
   max-width: 20em;
+  font-size: 1.9em;
+  line-height: 1.4
 }
 
 h1 a {
