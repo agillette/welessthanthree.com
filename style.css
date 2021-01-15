@@ -17,3 +17,14 @@ th, td
 }
 
 img, iframe { border: 0 }
+
+/* the website */
+
+body {
+  padding: 1em;
+}
+
+h1 {
+  margin: 4em auto;
+  max-width: 20em;
+}
